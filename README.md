@@ -9,6 +9,6 @@
 I'm a web developer that loves to automate stuff.
 
 ## What do I use?
-<img align="center" src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,mongodb,linux,git,github"/>
+<img align="center" src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,mongodb,linux,git,github,mysql"/>
 <!--
 **Xehia/xehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
